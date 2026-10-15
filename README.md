@@ -1,14 +1,14 @@
 <h1 align="center">Salut, je suis Youness El Moutaouakkil 👋</h1>
 <p align="center">
-  <b>Étudiant en Génie Informatique</b> · Développement C / C++ / Python / Web<br>
-  📍 Maroc · 🎯 <b>À la recherche d'un stage pratique à Casablanca</b>
+  <b>Étudiant en Génie Informatique à l'EST — École Supérieure de Technologie</b><br>
+  💻 Développement C / C++ / Python / Web · 📍 Maroc
 </p>
 
 ---
 
 ### 🧑‍💻 À propos de moi
 
-- 🎓 Étudiant en **Génie Informatique**, passionné par le développement logiciel.
+- 🎓 Étudiant en **Génie Informatique** à l'**EST (École Supérieure de Technologie)**, passionné par le développement logiciel.
 - 🏭 J'ai conçu une application web de **gestion de stock et de traçabilité** pour une usine d'assemblage électronique (Valtronic Maroc).
 - 🧠 Je m'intéresse aussi à l'**IA** : neurones artificiels, fonctions d'activation, visualisation de données.
 - 🌱 Toujours en train d'apprendre et ouvert aux nouvelles opportunités.
@@ -41,4 +41,4 @@ Mes travaux pratiques organisés par langage : structures de données en C (list
 
 ### 📫 Me contacter
 
-Je suis disponible pour un **stage** à Casablanca et ses environs. N'hésitez pas à me contacter via GitHub ou à consulter mes projets ci-dessus !
+N'hésitez pas à me contacter via GitHub ou à consulter mes projets ci-dessus !
